@@ -78,7 +78,7 @@ for i in of:
     score=score+1
    if(ds[7]=='C'):
     score=score+1
-   if(ds[8]=='G'):
+   if(ds[8]=='C' or 'G'):
     score=score+1
    if(ds[9]=='G'):
     score=score+1
